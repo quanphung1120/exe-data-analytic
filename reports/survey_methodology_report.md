@@ -92,3 +92,25 @@ WTP có tín hiệu nhưng chưa mạnh: 131/159 có tín hiệu trả phí nế
 
 ### Other relevant conclusion
 Cần validation tiếp theo bằng MVP hẹp, đo conversion thực tế, booking thực tế, retention, và price test. Survey hiện tại đủ để tạo hypothesis và MVP direction, chưa đủ để chứng minh product-market fit.
+
+## 5.2.13 Hidden Insights
+### 1. Nhu cầu có dấu hiệu thật, nhưng chưa phải nhu cầu trả phí mạnh.
+- Evidence: 131/159 kỳ vọng chơi thường xuyên hơn, nhưng chỉ 20/159 trả lời chắc chắn sẵn sàng trả phí.
+- Business Meaning: Không nên bắt đầu bằng subscription rộng; cần gắn phí với giao dịch có giá trị rõ như đặt sân hoặc tham gia trận.
+- Action: Ưu tiên phí tiện ích/hoa hồng đặt sân và kiểm chứng willingness-to-pay bằng landing page hoặc concierge MVP.
+### 2. App chỉ có giá trị nếu đạt mật độ người chơi thật.
+- Evidence: 111/159 có WTP có điều kiện hoặc không chắc chắn; switching trigger 'Có nhiều người chơi thật' xuất hiện nổi bật.
+- Business Meaning: Rủi ro chicken-and-egg lớn hơn rủi ro tính năng.
+- Action: Launch theo cụm nhỏ: một vài trường/khu vực/môn thể thao trước khi mở rộng toàn thành phố.
+### 3. Vấn đề tin tưởng là rào cản nền tảng khi ghép người lạ.
+- Evidence: Trust-factor table cho thấy hồ sơ, đánh giá, xác minh, trình độ và nhóm chat đều xuất hiện lặp lại.
+- Business Meaning: Ghép lịch và trình độ chưa đủ; thiếu trust sẽ làm giảm conversion sang buổi chơi thật.
+- Action: MVP phải có hồ sơ cơ bản, review sau buổi chơi, xác minh số điện thoại và chat trước buổi chơi.
+### 4. Đặt sân là pain point có thể kiếm tiền hơn cộng đồng thuần túy.
+- Evidence: 106/159 cần đặt sân/tìm địa điểm ít nhất thỉnh thoảng; paid-feature table có tín hiệu phí đặt sân/địa điểm tiện lợi cao.
+- Business Meaning: Booking tạo giao dịch rõ ràng và dễ justify fee hơn tính năng cộng đồng.
+- Action: Ưu tiên dữ liệu sân, lịch trống, giá, đánh giá sân và quy trình đặt/giữ chỗ.
+### 5. Mẫu khảo sát rất lệch về sinh viên 18-22.
+- Evidence: 147/159 ở nhóm 18-22 và 140/159 là học sinh/sinh viên.
+- Business Meaning: Kết quả phù hợp để chọn beachhead segment, không đủ để khẳng định đại diện toàn bộ người chơi thể thao tại TP.HCM.
+- Action: Báo cáo demand là promising trong nhóm trẻ/sinh viên; validation tiếp theo cần mẫu người đi làm và người đặt sân thường xuyên.
