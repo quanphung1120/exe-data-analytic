@@ -1,0 +1,9 @@
+﻿feature,evidence_sources,pain_score,adoption_score,wtp_score,feasibility_score,pain_score_norm,adoption_score_norm,wtp_score_norm,feasibility_score_norm,weighted_score,priority
+Lịch trống và giá sân minh bạch,booking_pains + switching_triggers + paid_features,158,98,100,3,1.0,0.4279475982532751,1.0,0.6,0.768,Must-have
+Đối tác sân/địa điểm thể thao,switching_triggers + booking methods/pains,148,76,100,2,0.9367088607594937,0.3318777292576419,1.0,0.4,0.687,Must-have
+"Hồ sơ, đánh giá và xác minh người chơi",trust_factors + switching_triggers + current finding pains,75,229,0,3,0.47468354430379744,1.0,0.0,0.6,0.556,Nice-to-have
+Ghép người chơi theo trình độ,switching_triggers + trust factors + teammate pain,73,100,36,3,0.4620253164556962,0.4366812227074236,0.36,0.6,0.455,Nice-to-have
+Ghép người chơi theo lịch rảnh,switching_triggers + teammate pain,69,55,53,4,0.43670886075949367,0.24017467248908297,0.53,0.8,0.451,Nice-to-have
+Nhiều người chơi thật / bootstrap cộng đồng,switching_triggers + WTP conditional on user density,75,93,32,2,0.47468354430379744,0.40611353711790393,0.32,0.4,0.412,Nice-to-have
+Nhóm chat trước buổi chơi,trust_factors,56,77,0,5,0.35443037974683544,0.33624454148471616,0.0,1.0,0.375,Nice-to-have
+Giải/sự kiện thể thao,paid_features,0,0,37,2,0.0,0.0,0.37,0.4,0.134,Ignore/Defer

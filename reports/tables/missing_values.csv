@@ -1,0 +1,23 @@
+﻿column,missing_count,missing_pct
+UID,0,0.0
+2. Độ tuổi của bạn là bao nhiêu?,0,0.0
+3. Giới tính của bạn là gì?,0,0.0
+4. Nghề nghiệp hiện tại của bạn là gì?,0,0.0
+Thu nhập của bạn khoảng bao nhiêu:,0,0.0
+6. Bạn hiện có chơi hoặc quan tâm đến các hoạt động thể thao không?,0,0.0
+7. Bạn đang chơi hoặc muốn chơi những môn thể thao nào?,10,6.3
+8. Tần suất bạn muốn chơi thể thao lý tưởng là bao nhiêu?,10,6.3
+9. Bạn đã từng muốn chơi thể thao nhưng không đủ người chơi cùng chưa?,10,6.3
+10. Khó khăn lớn nhất của bạn khi tìm người chơi cùng là gì?,10,6.3
+"11. Nếu có hệ thống ghép người chơi theo khu vực gần đúng, trình độ và lịch rảnh, bạn có sẵn sàng chơi với người mới không?",10,6.3
+"12. Khi ghép với người chơi mới, yếu tố nào khiến bạn tin tưởng hơn?",10,6.3
+13. Hiện tại bạn thường dùng cách nào để tìm người chơi thể thao cùng?,10,6.3
+14. Điểm bất tiện lớn nhất khi tìm người chơi bằng các cách hiện tại là gì?,10,6.3
+15. Bạn có thường cần đặt sân hoặc tìm địa điểm khi chơi thể thao không?,10,6.3
+16. Hiện tại bạn thường đặt sân hoặc tìm địa điểm chơi bằng cách nào?,21,13.2
+17. Điểm bất tiện lớn nhất khi đặt sân/tìm địa điểm hiện nay là gì?,21,13.2
+"18. Nếu có một ứng dụng tổng hợp cả tìm người chơi, đặt sân/địa điểm và cộng đồng thể thao, điều gì sẽ khiến bạn chuyển sang dùng?",10,6.3
+"19. Nếu ứng dụng giúp bạn tìm người chơi và địa điểm dễ hơn, bạn nghĩ mình sẽ chơi thể thao thường xuyên hơn không?",10,6.3
+20. Bạn có sẵn sàng trả phí nếu ứng dụng thật sự giúp bạn tìm người chơi hoặc đặt sân thuận tiện hơn không?,10,6.3
+21. Bạn sẵn sàng trả phí cho tính năng nào?,10,6.3
+Điều gì có thể khiến bạn quan tâm hơn đến việc chơi thể thao?,141,88.7

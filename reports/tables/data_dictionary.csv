@@ -1,0 +1,23 @@
+﻿original_column,clean_name,usage
+UID,uid,identifier
+2. Độ tuổi của bạn là bao nhiêu?,age,demographic
+3. Giới tính của bạn là gì?,gender,demographic
+4. Nghề nghiệp hiện tại của bạn là gì?,occupation,demographic
+Thu nhập của bạn khoảng bao nhiêu:,income,demographic
+6. Bạn hiện có chơi hoặc quan tâm đến các hoạt động thể thao không?,sport_interest,behavior
+7. Bạn đang chơi hoặc muốn chơi những môn thể thao nào?,sports,behavior
+8. Tần suất bạn muốn chơi thể thao lý tưởng là bao nhiêu?,ideal_frequency,behavior
+9. Bạn đã từng muốn chơi thể thao nhưng không đủ người chơi cùng chưa?,teammate_shortage,problem_evidence
+10. Khó khăn lớn nhất của bạn khi tìm người chơi cùng là gì?,teammate_pain_points,problem_evidence
+"11. Nếu có hệ thống ghép người chơi theo khu vực gần đúng, trình độ và lịch rảnh, bạn có sẵn sàng chơi với người mới không?",new_player_openness,solution_demand
+"12. Khi ghép với người chơi mới, yếu tố nào khiến bạn tin tưởng hơn?",trust_factors,solution_demand
+13. Hiện tại bạn thường dùng cách nào để tìm người chơi thể thao cùng?,current_finding_methods,problem_evidence
+14. Điểm bất tiện lớn nhất khi tìm người chơi bằng các cách hiện tại là gì?,current_finding_pains,problem_evidence
+15. Bạn có thường cần đặt sân hoặc tìm địa điểm khi chơi thể thao không?,booking_need,problem_evidence
+16. Hiện tại bạn thường đặt sân hoặc tìm địa điểm chơi bằng cách nào?,current_booking_methods,problem_evidence
+17. Điểm bất tiện lớn nhất khi đặt sân/tìm địa điểm hiện nay là gì?,booking_pains,problem_evidence
+"18. Nếu có một ứng dụng tổng hợp cả tìm người chơi, đặt sân/địa điểm và cộng đồng thể thao, điều gì sẽ khiến bạn chuyển sang dùng?",switching_triggers,solution_demand
+"19. Nếu ứng dụng giúp bạn tìm người chơi và địa điểm dễ hơn, bạn nghĩ mình sẽ chơi thể thao thường xuyên hơn không?",expected_frequency_lift,solution_demand
+20. Bạn có sẵn sàng trả phí nếu ứng dụng thật sự giúp bạn tìm người chơi hoặc đặt sân thuận tiện hơn không?,willingness_to_pay,solution_demand
+21. Bạn sẵn sàng trả phí cho tính năng nào?,paid_features,solution_demand
+Điều gì có thể khiến bạn quan tâm hơn đến việc chơi thể thao?,open_motivation,qualitative

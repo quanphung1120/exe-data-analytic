@@ -1,0 +1,6 @@
+﻿step,detail
+rename_columns,Mapped original Vietnamese question text to stable snake_case names.
+trim_text,Trimmed whitespace and collapsed repeated spaces in text fields.
+parse_multi_select,Split comma-separated multi-select answers into option lists for counting.
+score_fields,"Created ordinal scores for pain frequency, booking need, WTP, frequency lift, and openness."
+preserve_raw,Raw response_details.csv was read-only and not modified.
