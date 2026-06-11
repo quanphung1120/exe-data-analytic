@@ -6,7 +6,7 @@ This project analyzes `response_details.csv` for a sports teammate-finding and c
 
 ```bash
 uv venv .venv
-uv pip install --python .venv/bin/python pandas numpy matplotlib nbformat nbclient ipykernel notebook
+uv pip install --python .venv/bin/python pandas numpy matplotlib nbformat nbclient ipykernel notebook pypandoc-binary
 ```
 
 ## Run the notebook
@@ -23,6 +23,8 @@ Run all cells from top to bottom. The notebook preserves `response_details.csv` 
 - `data/cleaned_survey.csv`
 - `reports/startup_survey_insights.md`
 - `reports/survey_methodology_report.md`
+- `reports/startup_survey_insights.docx`
+- `reports/survey_methodology_report.docx`
 - `reports/charts/*.png`
 - `reports/tables/*.csv`
 
